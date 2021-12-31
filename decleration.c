@@ -1,0 +1,10 @@
+int changeprize(int);
+void reservation(int *,int,int );
+int choice1(void);
+void cancel(int *);
+void movie1(int choice,char name[10],int id2,int price);
+void movie2(int choice,char name[10],int id2,int price);
+void movie3(int choice,char name[10],int id2,int price);
+int cmovie(void);
+int movie(void);
+void details(void);
